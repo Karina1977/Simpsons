@@ -1,0 +1,7 @@
+C:\Projekti\Simpsons\Simpsons\Simpsons\bin\Debug\Simpsons.exe.config
+C:\Projekti\Simpsons\Simpsons\Simpsons\bin\Debug\Simpsons.exe
+C:\Projekti\Simpsons\Simpsons\Simpsons\bin\Debug\Simpsons.pdb
+C:\Projekti\Simpsons\Simpsons\Simpsons\obj\Debug\Simpsons.csproj.AssemblyReference.cache
+C:\Projekti\Simpsons\Simpsons\Simpsons\obj\Debug\Simpsons.csproj.CoreCompileInputs.cache
+C:\Projekti\Simpsons\Simpsons\Simpsons\obj\Debug\Simpsons.exe
+C:\Projekti\Simpsons\Simpsons\Simpsons\obj\Debug\Simpsons.pdb
