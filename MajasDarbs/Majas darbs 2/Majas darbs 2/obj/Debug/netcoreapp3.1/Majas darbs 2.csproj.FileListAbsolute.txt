@@ -1,0 +1,14 @@
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\bin\Debug\netcoreapp3.1\Majas darbs 2.exe
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\bin\Debug\netcoreapp3.1\Majas darbs 2.deps.json
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\bin\Debug\netcoreapp3.1\Majas darbs 2.runtimeconfig.json
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\bin\Debug\netcoreapp3.1\Majas darbs 2.runtimeconfig.dev.json
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\bin\Debug\netcoreapp3.1\Majas darbs 2.dll
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\bin\Debug\netcoreapp3.1\Majas darbs 2.pdb
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\obj\Debug\netcoreapp3.1\Majas darbs 2.csproj.AssemblyReference.cache
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\obj\Debug\netcoreapp3.1\Majas darbs 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\obj\Debug\netcoreapp3.1\Majas darbs 2.AssemblyInfoInputs.cache
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\obj\Debug\netcoreapp3.1\Majas darbs 2.AssemblyInfo.cs
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\obj\Debug\netcoreapp3.1\Majas darbs 2.csproj.CoreCompileInputs.cache
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\obj\Debug\netcoreapp3.1\Majas darbs 2.dll
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\obj\Debug\netcoreapp3.1\Majas darbs 2.pdb
+C:\Projekti\Simpsons\MajasDarbs\Majas darbs 2\Majas darbs 2\obj\Debug\netcoreapp3.1\Majas darbs 2.genruntimeconfig.cache
